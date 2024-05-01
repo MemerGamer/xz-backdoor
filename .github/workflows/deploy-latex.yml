@@ -36,6 +36,8 @@ jobs:
           cp -r assets/ public/
           cd public/
           pdflatex main.tex
+          bibtex main
+          pdflatex main.tex
           pdflatex main.tex
           make4ht main.tex
           mv main.html index.html
