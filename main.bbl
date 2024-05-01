@@ -1,0 +1,68 @@
+\begin{thebibliography}{Col24b}
+
+\bibitem[Boe24]{Boehs_2024}
+Evan Boehs.
+\newblock Everything i know about the xz backdoor.
+\newblock \url{https://boehs.org/node/everything-i-know-about-the-xz-backdoor},
+  Mar 2024.
+
+\bibitem[Col24a]{Coldwind_2024}
+Gynvael Coldwind.
+\newblock Xz/liblzma: Bash-stage obfuscation explained.
+\newblock \url{https://gynvael.coldwind.pl/?lang=en&id=782}, Mar 2024.
+
+\bibitem[Col24b]{Collin_2024}
+Lasse Collin.
+\newblock Xz utils backdoor.
+\newblock \url{https://tukaani.org/xz-backdoor/}, Apr 2024.
+
+\bibitem[Cox]{Cox}
+Russ Cox.
+\newblock Timeline of the xz open source attack posted on monday, april 1,
+  2024.updated wednesday, april 3, 2024.
+\newblock \url{https://research.swtch.com/xz-timeline}.
+
+\bibitem[Fre24]{Freund_2024}
+Andres Freund.
+\newblock Oss-security - backdoor in upstream xz/liblzma leading to ssh server
+  compromise.
+\newblock \url{https://www.openwall.com/lists/oss-security/2024/03/29/4}, Mar
+  2024.
+
+\bibitem[Goo15]{Goodin2015Lenovo}
+Dan Goodin.
+\newblock Lenovo pcs ship with man-in-the-middle adware that breaks https
+  connections.
+\newblock {\em Ars Technica}, 2015.
+
+\bibitem[Goo24]{Goodin_2024}
+Dan Goodin.
+\newblock What we know about the xz utils backdoor that almost infected the
+  world.
+\newblock
+  \url{https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/},
+  Apr 2024.
+
+\bibitem[Roc24]{Roccia_2024}
+Thomas Roccia.
+\newblock Xz outbreak (cve-2024-3094).
+\newblock \url{https://twitter.com/fr0gger_/status/1774342248437813525}, Mar
+  2024.
+
+\bibitem[Tho84]{thompson1984reflections}
+Ken Thompson.
+\newblock Reflections on trusting trust.
+\newblock {\em Communications of the ACM}, 27(8):761--763, 1984.
+
+\bibitem[Wik24]{Wikipedia_2024}
+Xz utils.
+\newblock \url{https://en.wikipedia.org/wiki/XZ_Utils}, Apr 2024.
+
+\bibitem[xkc]{xkcd}
+xkcd: Dependency.
+\newblock \url{https://xkcd.com/2347/}.
+
+\bibitem[You24]{YouTube_2024}
+\url{https://youtu.be/vV_WdTBbww4?si=uz-JF1cAUvUQ7VbW}, Apr 2024.
+
+\end{thebibliography}

@@ -1,5 +1,34 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{4}\relax 
-\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Section 1}}{5}\relax 
-\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-20011}{}{\ignorespaces Placeholder}}{figure}\relax 
-\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-4}{Section 2}}{9}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Bevezetés}}{3}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-20001.1}{QQ2-1-2}{A dolgozat motivációja}}{3}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{1}{x1-30001.2}{QQ2-1-3}{Backdoor-ok (hátsó kapuk) és man-in-the-middle típusú támadások}}{3}\relax 
+\doTocEntry\tocsubsubsection{1.2.1}{\csname a:TocLink\endcsname{1}{x1-40001.2.1}{QQ2-1-4}{A backdoorok (hátsó kapuk)}}{4}\relax 
+\doTocEntry\tocsubsubsection{1.2.2}{\csname a:TocLink\endcsname{1}{x1-50001.2.2}{QQ2-1-5}{Man-in-the-middle típusú támadások}}{4}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-6}{Az XZ Backdoor-al kapcsolatos pszichológiai manipuláció}}{4}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-70002.1}{QQ2-1-7}{A támadást megelőző történések}}{5}\relax 
+\doTocEntry\tocsubsubsection{2.1.1}{\csname a:TocLink\endcsname{1}{x1-80002.1.1}{QQ2-1-8}{Az XZ Utils szoftverkészlet háttértörténete}}{5}\relax 
+\doTocEntry\tocsubsubsection{2.1.2}{\csname a:TocLink\endcsname{1}{x1-90002.1.2}{QQ2-1-9}{2021 - Kezdetek}}{5}\relax 
+\doTocEntry\tocsubsubsection{2.1.3}{\csname a:TocLink\endcsname{1}{x1-100002.1.3}{QQ2-1-10}{2022 - Lasse Collin manipulálása}}{6}\relax 
+\doTocEntry\tocsubsubsection{2.1.4}{\csname a:TocLink\endcsname{1}{x1-110002.1.4}{QQ2-1-11}{2023 - Jia Tan befolyása}}{6}\relax 
+\doTocEntry\tocsubsubsection{2.1.5}{\csname a:TocLink\endcsname{1}{x1-120002.1.5}{QQ2-1-12}{2024 - Végső lépések}}{7}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-130002.2}{QQ2-1-13}{Fontos személyek a támadást illetően}}{7}\relax 
+\doTocEntry\tocsubsubsection{2.2.1}{\csname a:TocLink\endcsname{1}{x1-140002.2.1}{QQ2-1-14}{Lasse Collin - A tökéletes célpont}}{7}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-14002}{}{\numberline {1.}{\ignorespaces xkcd: Dependency\relax }}}{9}\relax 
+\doTocEntry\tocsubsubsection{2.2.2}{\csname a:TocLink\endcsname{1}{x1-150002.2.2}{QQ2-1-16}{Jia Tan, Jigar Kumar, Dennis Ens és Hans Jansen}}{10}\relax 
+\doTocEntry\tocsubsubsection{2.2.3}{\csname a:TocLink\endcsname{1}{x1-160002.2.3}{QQ2-1-17}{Andres Freund - Aki nélkül nem derült volna fény a támadásra}}{10}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{1}{x1-170002.3}{QQ2-1-18}{A támadás kivitelezésének kulcsa}}{10}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-180003}{QQ2-1-19}{Az XZ Backdoor technikai oldala}}{11}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-190003.1}{QQ2-1-20}{Megjegyzések}}{11}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-200003.2}{QQ2-1-21}{Nulladik lépés -- előkészületek}}{11}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{1}{x1-210003.3}{QQ2-1-22}{Első lépés}}{12}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-21024}{}{\numberline {2.}{\ignorespaces A hasznos bájtok összerakása\relax }}}{14}\relax 
+\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{1}{x1-220003.4}{QQ2-1-24}{Második lépés}}{15}\relax 
+\doTocEntry\tocsubsubsection{3.4.1}{\csname a:TocLink\endcsname{1}{x1-230003.4.1}{QQ2-1-25}{A második lépés "kiterjesztési" mechanizmusa:}}{15}\relax 
+\doTocEntry\tocsubsubsection{3.4.2}{\csname a:TocLink\endcsname{1}{x1-240003.4.2}{QQ2-1-26}{A backdoor kibontása}}{17}\relax 
+\doTocEntry\tocsubsection{3.5}{\csname a:TocLink\endcsname{1}{x1-250003.5}{QQ2-1-27}{Mi történt volna ezek után?}}{19}\relax 
+\doTocEntry\tocsubsubsection{3.5.1}{\csname a:TocLink\endcsname{1}{x1-260003.5.1}{QQ2-1-28}{Hasznos információk a backdoor vizsgálatával kapcsolatban}}{19}\relax 
+\doTocEntry\tocsubsubsection{3.5.2}{\csname a:TocLink\endcsname{1}{x1-270003.5.2}{QQ2-1-29}{Hogyan is működik a backdoor?}}{19}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-280004}{QQ2-1-30}{Összegzés}}{21}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-28002}{}{\numberline {3.}{\ignorespaces Az XZ Backdoor áttekintése - (CVE-2024-3094)\relax }}}{23}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-290004}{QQ2-1-32}{Hivatkoz\'asok}}{25}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-300004}{QQ2-1-33}{Tartalomjegyz\'ek}}{27}\relax 
