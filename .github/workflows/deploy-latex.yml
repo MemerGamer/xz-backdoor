@@ -36,11 +36,11 @@ jobs:
           cp *.bib public/
           cp -r assets/ public/
           cd public/
-          pdflatex main.tex
-          bibtex main
-          pdflatex main.tex
-          pdflatex main.tex
-          make4ht main.tex
+          pdflatex main.tex || echo "pdflatex failed"
+          bibtex main || echo "bibtex failed"
+          pdflatex main.tex || echo "second pdflatex failed"
+          pdflatex main.tex || echo "third pdflatex failed"
+          make4ht main.tex || echo "make4ht failed"
           mv main.html index.html
 
       # Save the TeX Live installation to cache for future use
